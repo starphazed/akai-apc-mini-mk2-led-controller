@@ -1,0 +1,28 @@
+# Local editing and review tools
+.video-tools/
+.video-review/
+.codex/
+.agents/
+sources/
+
+# Large footage and prepared release bundles live outside Git
+*.mp4
+*.mov
+*.MOV
+*.zip
+release-assets/
+
+# TouchDesigner temporary files and backups
+Backup/
+Backups/
+backup/
+backups/
+*.toe.bak
+*.tox.bak
+*.toe.autosave
+*.tmp
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
+Desktop.ini

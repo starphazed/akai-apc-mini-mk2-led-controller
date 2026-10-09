@@ -1,0 +1,115 @@
+{
+  "source": "20261008-1911-31.9469040.mp4",
+  "source_duration": 207.7,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio": "Silent source audio removed",
+  "clips": [
+    {
+      "file": "01_individual_cell_painting.mp4",
+      "title": "Individual cell painting",
+      "start": 182.5,
+      "end": 198.5,
+      "duration": 16.0,
+      "description": "Blue cells are painted onto a red board; the surrounding cells retain their colour.",
+      "crop": [
+        2072,
+        1276,
+        304,
+        94
+      ],
+      "release_asset": "virtual-01_individual_cell_painting.mp4"
+    },
+    {
+      "file": "02_manual_mode_and_fill_all.mp4",
+      "title": "Manual mode and Fill All",
+      "start": 166.8,
+      "end": 177.8,
+      "duration": 11.0,
+      "description": "The stored manual cells are visible, then Fill All turns the full matrix red. Pending editor changes near the end are not represented as applied changes.",
+      "crop": [
+        2072,
+        1276,
+        304,
+        94
+      ],
+      "release_asset": "virtual-02_manual_mode_and_fill_all.mp4"
+    },
+    {
+      "file": "03_animated_background_presets.mp4",
+      "title": "Animated background presets",
+      "start": 31.0,
+      "end": 43.0,
+      "duration": 12.0,
+      "description": "Rainbow, Center ripple and Cycle are selected with their changing matrix output visible.",
+      "crop": [
+        2072,
+        1276,
+        322,
+        80
+      ],
+      "release_asset": "virtual-03_animated_background_presets.mp4"
+    },
+    {
+      "file": "04_reactive_ripple_and_flash.mp4",
+      "title": "Reactive Ripple and Flash",
+      "start": 58.5,
+      "end": 71.0,
+      "duration": 12.5,
+      "description": "Pad interactions produce expanding colour patterns and a whole-board white flash.",
+      "crop": [
+        2072,
+        1276,
+        322,
+        80
+      ],
+      "release_asset": "virtual-04_reactive_ripple_and_flash.mp4"
+    },
+    {
+      "file": "05_background_and_reactive_speed.mp4",
+      "title": "Background and reactive speed",
+      "start": 93.0,
+      "end": 109.0,
+      "duration": 16.0,
+      "description": "The layer-settings sliders are adjusted alongside the live matrix.",
+      "crop": [
+        2440,
+        1276,
+        80,
+        84
+      ],
+      "release_asset": "virtual-05_background_and_reactive_speed.mp4"
+    },
+    {
+      "file": "06_ripple_shape_and_timing.mp4",
+      "title": "Ripple shape and timing",
+      "start": 126.5,
+      "end": 143.5,
+      "duration": 17.0,
+      "description": "Ring width and timing controls are adjusted while ripple patterns remain visible.",
+      "crop": [
+        2440,
+        1276,
+        80,
+        84
+      ],
+      "release_asset": "virtual-06_ripple_shape_and_timing.mp4"
+    },
+    {
+      "file": "07_top_input_and_control_modes.mp4",
+      "title": "TOP input and control modes",
+      "start": 157.2,
+      "end": 168.2,
+      "duration": 11.0,
+      "description": "IMAGE / TOP supplies a multicolour pattern, followed by Add and Manual mode changes.",
+      "crop": [
+        2072,
+        1276,
+        304,
+        94
+      ],
+      "release_asset": "virtual-07_top_input_and_control_modes.mp4"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "source": "IMG_0467.MOV",
+  "source_duration": 230.58,
+  "source_dimensions": [
+    1840,
+    1034
+  ],
+  "output_dimensions": [
+    1920,
+    1080
+  ],
+  "output_fps": 30,
+  "audio": "Omitted for silent portfolio clips",
+  "clips": [
+    {
+      "file": "01_full_matrix_colour_changes.mp4",
+      "title": "Full matrix colour changes",
+      "start": 0.5,
+      "end": 10.5,
+      "duration": 10.0,
+      "description": "The physical matrix changes from red to blue.",
+      "release_asset": "hardware-01_full_matrix_colour_changes.mp4"
+    },
+    {
+      "file": "02_building_a_face_pattern.mp4",
+      "title": "Building a face pattern",
+      "start": 55,
+      "end": 74,
+      "duration": 19,
+      "description": "Red groups of cells build into a face on the dark matrix. The controlling software is off camera.",
+      "release_asset": "hardware-02_building_a_face_pattern.mp4"
+    },
+    {
+      "file": "03_animated_colour_gradient.mp4",
+      "title": "Animated colour gradient",
+      "start": 80,
+      "end": 96,
+      "duration": 16,
+      "description": "A multicolour gradient moves across the illuminated pads.",
+      "release_asset": "hardware-03_animated_colour_gradient.mp4"
+    },
+    {
+      "file": "04_centre_outward_patterns.mp4",
+      "title": "Centre-outward patterns",
+      "start": 101,
+      "end": 118,
+      "duration": 17,
+      "description": "Changing colour bands form around the centre of the matrix.",
+      "release_asset": "hardware-04_centre_outward_patterns.mp4"
+    },
+    {
+      "file": "05_moving_light_patterns.mp4",
+      "title": "Moving light patterns",
+      "start": 120,
+      "end": 139,
+      "duration": 19,
+      "description": "Individual bright areas and horizontal bands move across the dark matrix.",
+      "release_asset": "hardware-05_moving_light_patterns.mp4"
+    },
+    {
+      "file": "06_hands_on_pad_response.mp4",
+      "title": "Hands-on pad response",
+      "start": 144,
+      "end": 157,
+      "duration": 13,
+      "description": "Both hands press pads while multicolour patterns spread across the matrix.",
+      "release_asset": "hardware-06_hands_on_pad_response.mp4"
+    },
+    {
+      "file": "07_pad_presses_and_bright_flashes.mp4",
+      "title": "Pad presses and bright flashes",
+      "start": 159,
+      "end": 172,
+      "duration": 13,
+      "description": "Visible pad presses accompany bright whole-matrix flashes and colour changes.",
+      "release_asset": "hardware-07_pad_presses_and_bright_flashes.mp4"
+    },
+    {
+      "file": "08_colour_pattern_to_individual_cells.mp4",
+      "title": "Colour pattern to individual cells",
+      "start": 210,
+      "end": 229,
+      "duration": 19,
+      "description": "An animated colour pattern gives way to a red matrix with selected blue cells.",
+      "release_asset": "hardware-08_colour_pattern_to_individual_cells.mp4"
+    }
+  ]
+}
