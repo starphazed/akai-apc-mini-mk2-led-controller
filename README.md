@@ -49,7 +49,15 @@ This diagram summarises the modules; the screenshot below shows the inspected no
 
 The documented session used **TouchDesigner 2025.33230 on Windows**. Physical demonstrations use an **Akai APC Mini Mk2** connected over USB. Other versions have not been checked for this documentation.
 
-See [project files and startup notes](project/README.md) for the current source-file status. Once the project is supplied, open its `.toe` file in TouchDesigner and keep any required media beside it using the supplied folder structure. Use the controller interface to inspect the virtual matrix. For hardware output, connect the APC Mini Mk2 and verify the intended MIDI device before enabling output.
+1. Download the repository with **Code → Download ZIP**, then extract it.
+2. Recommended: drag [`apc_mini_mk2_effects.tox`](project/apc_mini_mk2_effects.tox) into a TouchDesigner network. This reusable component starts with MIDI disabled.
+3. Enter the imported `lighting_matrix_demo` component, right-click `controller_ui`, and choose **View**.
+4. Select **Manual** to edit cells, or choose a background and a reactive effect.
+5. For physical output, connect the APC Mini Mk2 over USB, verify the device name, then click **Connect APC**.
+
+Alternatively, open [`APC_Mini_mk2_Layer_Controls.toe`](project/APC_Mini_mk2_Layer_Controls.toe) for the complete demo. **The `.toe` is saved with MIDI enabled and may send immediately.** Use only one active adapter per controller.
+
+[Full startup and media-input instructions](project/README.md). No external Python packages or development scripts are needed for the supplied component in the documented environment. These binaries were copied unchanged; a fresh TouchDesigner launch was not performed during publication.
 
 ## Documentation
 
