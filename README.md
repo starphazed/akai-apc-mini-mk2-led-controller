@@ -6,11 +6,25 @@ A TouchDesigner project for controlling the APC Mini Mk2 LED matrix. Individual 
 
 ## Watch the demonstrations
 
-| Demonstration | What it shows | Length |
-|---|---|---:|
-| [Hands-on pad response](https://github.com/starphazed/akai-apc-mini-mk2-led-controller/releases/download/portfolio-demos-v1/hardware-06_hands_on_pad_response.mp4) | Physical pad presses alongside changing colour patterns | 13 s |
-| [Individual cell painting](https://github.com/starphazed/akai-apc-mini-mk2-led-controller/releases/download/portfolio-demos-v1/virtual-01_individual_cell_painting.mp4) | Blue cells painted onto a red matrix | 16 s |
-| [Animated backgrounds](https://github.com/starphazed/akai-apc-mini-mk2-led-controller/releases/download/portfolio-demos-v1/virtual-03_animated_background_presets.mp4) | Rainbow, Center ripple and Cycle in the interface | 12 s |
+### Hands-on pad response · 13 seconds
+
+Physical pad presses alongside changing colour patterns.
+
+https://github.com/user-attachments/assets/f1cd376a-3594-4a91-a08f-d45accc9b276
+
+### Individual cell painting · 16 seconds
+
+Blue cells painted onto a red matrix while surrounding cells retain their colour.
+
+https://github.com/user-attachments/assets/a60ef4d3-5085-47da-9d3e-1c54ca11b447
+
+### Animated backgrounds · 12 seconds
+
+Rainbow, Center ripple and Cycle selected in the virtual interface.
+
+https://github.com/user-attachments/assets/ae592db3-9781-49d3-a0ce-e4bc30e3dd84
+
+The hardware video above is a compressed preview. Original-quality clips and the complete collections remain available below.
 
 [All virtual demonstrations](documentation/virtual/README.md) · [All hardware demonstrations](documentation/hardware/README.md) · [Download the video collections](https://github.com/starphazed/akai-apc-mini-mk2-led-controller/releases/tag/portfolio-demos-v1)
 
@@ -68,4 +82,4 @@ Alternatively, open [`APC_Mini_mk2_Layer_Controls.toe`](project/APC_Mini_mk2_Lay
 | [Hardware demonstrations](documentation/hardware/README.md) | Eight clips of the physical controller |
 | [Capture notes](documentation/CAPTURE_NOTES.md) | Editing, evidence and limitations |
 
-Videos are release attachments, keeping large media out of the Git history. Screenshots and documentation live in the repository.
+Featured videos play inline through GitHub attachments; the full collections are release downloads. Large media stays out of the Git history. Screenshots and documentation live in the repository.
