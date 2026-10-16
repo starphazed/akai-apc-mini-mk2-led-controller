@@ -83,3 +83,9 @@ Alternatively, open [`APC_Mini_mk2_Layer_Controls.toe`](project/APC_Mini_mk2_Lay
 | [Capture notes](documentation/CAPTURE_NOTES.md) | Editing, evidence and limitations |
 
 Featured videos play inline through GitHub attachments; the full collections are release downloads. Large media stays out of the Git history. Screenshots and documentation live in the repository.
+
+## License and credits
+
+The original custom project content and associated written documentation are licensed under the [MIT License](LICENSE), copyright (c) 2026 starphazed. Preserve the license when redistributing the component or source.
+
+TouchDesigner is developed by Derivative; the APC Mini Mk2 is an Akai Professional product. Their software, assets and trademarks retain their own terms. Development used OpenAI Codex with human feedback and physical-controller checks. See [third-party notices and scope](THIRD_PARTY_NOTICES.md).

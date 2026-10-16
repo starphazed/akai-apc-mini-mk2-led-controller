@@ -52,3 +52,7 @@ The earlier capture session used a numbered `.1.toe` save. This repository inclu
 |---|---|
 | APC_Mini_mk2_Layer_Controls.toe | `56c101670ac62c87b3b6f0e8f05ea5fdb8d161fda9bfcf1ae5da943761e15b85` |
 | apc_mini_mk2_effects.tox | `951a99eeba8651da4fd84d467850894dade0047ccc433e6991d50c114c85a059` |
+
+## License
+
+The original custom project content uses the [MIT License](../LICENSE). Keep its copyright and permission notices with redistributed `.toe` and `.tox` files. [Third-party notices](../THIRD_PARTY_NOTICES.md) explain the separate TouchDesigner and Akai terms. This licensing update does not modify or resave either binary.
